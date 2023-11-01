@@ -1,0 +1,7 @@
+SKIP_PREFLIGHT_CHECK=true
+REACT_APP_END_POINT = https://vsigns-api.azurewebsites.net/api/v1
+REACT_APP_LOCAL_END_POINT = http://192.168.0.120:85/dataset/apis2
+REACT_APP_LOCAL_END_POINT_AMJAD = http://192.168.0.156:85/api/
+RECAPTCHA_SITE_KEY = 6LdvNuQcAAAAACIiik2sFDU2k7fwEDqciSzUMscb
+Name= mv build ../public || move build ../public
+LOCAL_URL = http://localhost:3000
